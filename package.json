@@ -41,7 +41,7 @@
         "link-preview-js": "^3.0.3",
         "mongodb": "^4.9.0",
         "mongoose": "^6.5.2",
-        "multer": "^1.4.5-lts.1",
+        "multer": "^2.0.0",
         "pino": "^8.4.2",
         "qrcode": "^1.5.1",
         "sharp": "^0.30.7",
